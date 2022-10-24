@@ -1,43 +1,43 @@
 body {
-  font-family: "Oswald" sans-serif;
+  font-family: "Rubik Mono One" sans-serif;
   text-align: center;
-  color: blue;
+  color: #00008b;
   margin: 0%;
   padding: 0%;
+  font-weight: 900;
 }
 .h {
-  color: blue;
-  font-size: 60px;
+  color: #00008b;
+  font-size: 40px;
+  font-weight: 900;
 }
 .span {
-  color: yellow;
+  color: #b00000;
 }
 .ff {
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 a {
   text-decoration: none;
-  color: red;
-  background-color: yellow;
+  color: #b00000;
 }
 ul {
   list-style: none;
 }
 .aa {
-  border: 10px red;
+  border: 10px #b00000;
   font-size: 40px;
 }
 .add {
-  font-size: 35px;
-  color: blue;
+  font-size: 18px;
+  color: #00008b;
 }
 button {
-  border-color: blue;
-  font-size: 35px;
-  background-color: yellow;
+  border-color: #00008b;
+  font-size: 18px;
 }
 .tt {
-  color: blue;
+  color: #00008b;
   font-style: oblique;
 }
