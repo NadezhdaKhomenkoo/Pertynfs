@@ -1,18 +1,18 @@
 body {
   font-family: "Rubik Mono One" sans-serif;
   text-align: center;
-  color: #00008b;
+  color: #6699ff;
   margin: 0%;
   padding: 0%;
   font-weight: 900;
 }
 .h {
-  color: #00008b;
+  color: #3366ff;
   font-size: 60px;
   font-weight: 900;
 }
 .span {
-  color: #b00000;
+  color: #cccc00;
 }
 .ff {
   font-size: 30px;
@@ -31,13 +31,20 @@ ul {
 }
 .add {
   font-size: 30px;
-  color: #00008b;
+  color: #3366ff;
 }
 button {
-  border-color: #00008b;
   font-size: 40px;
 }
 .tt {
-  color: #00008b;
+  color: #cccc00;
   font-style: oblique;
+}
+.o {
+  font-size: 20px;
+  color: #6699ff;
+}
+.w {
+  font-size: 30px;
+  color: #cccc00;
 }
