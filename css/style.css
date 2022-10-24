@@ -8,14 +8,14 @@ body {
 }
 .h {
   color: #00008b;
-  font-size: 40px;
+  font-size: 70px;
   font-weight: 900;
 }
 .span {
   color: #b00000;
 }
 .ff {
-  font-size: 20px;
+  font-size: 40px;
   text-align: center;
 }
 a {
@@ -27,15 +27,15 @@ ul {
 }
 .aa {
   border: 10px #b00000;
-  font-size: 40px;
+  font-size: 50px;
 }
 .add {
-  font-size: 18px;
+  font-size: 30px;
   color: #00008b;
 }
 button {
   border-color: #00008b;
-  font-size: 18px;
+  font-size: 40px;
 }
 .tt {
   color: #00008b;
