@@ -5,14 +5,15 @@ body {
   margin: 0%;
   padding: 0%;
   font-weight: 900;
+  font-style: italic;
 }
 .h {
-  color: #3366ff;
+  color: #e6e6e6;
   font-size: 60px;
   font-weight: 900;
 }
 .span {
-  color: #cccc00;
+  color: #f2f2f2;
 }
 .ff {
   font-size: 30px;
@@ -20,31 +21,32 @@ body {
 }
 a {
   text-decoration: none;
-  color: #b00000;
 }
 ul {
   list-style: none;
 }
 .aa {
-  border: 10px #b00000;
+  border: 10px #e6e6e6;
   font-size: 30px;
 }
 .add {
   font-size: 30px;
-  color: #3366ff;
-}
-button {
-  font-size: 40px;
+  color: #ffff00;
 }
 .tt {
-  color: #cccc00;
+  color: #6699ff;
   font-style: oblique;
+  font-size: 40px;
 }
 .o {
   font-size: 20px;
-  color: #6699ff;
+  color: #ffff00;
 }
 .w {
+  font-size: 20px;
+  color: #ffff00;
+}
+.t {
+  color: #f2f2f2;
   font-size: 30px;
-  color: #cccc00;
 }
