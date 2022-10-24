@@ -1,0 +1,42 @@
+body {
+  font-family: "Roboto" sans-serif;
+  text-align: right;
+  color: blue;
+}
+.h {
+  color: blue;
+  font-size: 60px;
+}
+.span {
+  color: yellow;
+}
+.ff {
+  font-size: 30px;
+  margin-left: 330px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: red;
+  background-color: yellow;
+}
+ul {
+  list-style: none;
+}
+.aa {
+  border: 10px red;
+  font-size: 40px;
+}
+.add {
+  font-size: 35px;
+  color: blue;
+}
+button {
+  border-color: blue;
+  font-size: 35px;
+  background-color: yellow;
+}
+.tt {
+  color: blue;
+  font-style: oblique;
+}
