@@ -8,14 +8,14 @@ body {
 }
 .h {
   color: #00008b;
-  font-size: 70px;
+  font-size: 60px;
   font-weight: 900;
 }
 .span {
   color: #b00000;
 }
 .ff {
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
 }
 a {
@@ -27,7 +27,7 @@ ul {
 }
 .aa {
   border: 10px #b00000;
-  font-size: 50px;
+  font-size: 30px;
 }
 .add {
   font-size: 30px;
