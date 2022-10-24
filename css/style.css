@@ -3,7 +3,7 @@ body {
   text-align: right;
   color: blue;
 }
-@media (min-width: 900px) .h {
+.h {
   color: blue;
   font-size: 60px;
 }
